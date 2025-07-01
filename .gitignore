@@ -1,0 +1,52 @@
+# ▶️ Python Bytecode & Caches
+__pycache__/
+*.py[cod]
+*.so
+
+# ▶️ Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# ▶️ Model Weights
+*.pt
+*.pth
+
+# ▶️ IDE & Editor Settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# ▶️ OS Generated Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ▶️ Logs & Outputs
+*.log
+*.out
+
+# ▶️ Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# ▶️ Arduino build files
+*.hex
+*.elf
+
+# ▶️ Environment Variables
+.env
+
+# ▶️ Any uploads or user data
+uploads/
+output/
+runs/
+
+# ▶️ YOLO cache (Ultralytics folder)
+ultralytics/
+
+# ▶️ Backup Files
+*~
+*.bak
